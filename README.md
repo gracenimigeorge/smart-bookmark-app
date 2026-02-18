@@ -5,7 +5,7 @@ A real-time bookmark manager built using Next.js and Supabase.
 ---
 
 ## Live URL
-(To be added after deployment)
+https://smart-bookmark-app-gray-eta.vercel.app/
 
 ---
 
